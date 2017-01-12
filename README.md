@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-~/repos/website/README.md
-
->>>>>>> 8f7ada105b6c8351434f30befc51d98898ac7e89
 # Sample Website
 
 This is a sample website made as part of [*Learn Enough™ Git to Be
